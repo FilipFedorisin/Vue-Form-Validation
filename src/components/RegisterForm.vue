@@ -2,6 +2,7 @@
   <div class="RegisterForm">
     <p>Hello World</p>
     <p>Serus toto napisal stando</p>
+    <p>ideme hrušky zbirac na palenku</p>
   </div>
 </template>
 
