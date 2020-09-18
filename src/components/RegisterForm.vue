@@ -1,6 +1,7 @@
 <template>
   <div class="RegisterForm">
     <p>Hello World</p>
+    <p>Serus toto napisal stando</p>
   </div>
 </template>
 
