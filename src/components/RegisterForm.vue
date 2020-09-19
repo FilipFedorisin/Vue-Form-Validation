@@ -36,7 +36,6 @@ export default {
   methods: {
     registerUser: function () {
       formValidation.inputCheck(this.register.username, this.register.password);
-      formValidation.testingHovno();
     },
   },
 };
